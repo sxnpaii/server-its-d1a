@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+
+p {
+   max-width: 350px;
+   opacity: .7;
+}
